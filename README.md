@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kyser Clark
-- 👀 I’m interested in cybersecurity related skills
-- 🌱 I’m currently learning python basics
-- 💞️ I’m not looking to collaborate at this time, but feel free to reach out to me if you are interested
-- 📫 Best way to reach me is on twitter, @KyserClark, or through email KyserClark@KyserClark.com
+- 👀 I’m interested in Cybersecurity and Hacking
+- 💞️ Feel free to reach out to me if you are interested collaboration
+- 📫 Best way to reach me is on twitter @KyserClark, or through email KyserJClark@gmail.com
 
 <!---
 KyserClark/KyserClark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
