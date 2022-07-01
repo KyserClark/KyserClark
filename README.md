@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Kyser Clark
+- 🇺🇸 Active Duty U.S. Air Force Cyber Defense Operations
+- 💼 IT & Cybersecurity Professional + Student
+- 👨‍🎓 CCNA | CLNP | Security+
+
 - 👀 I’m interested in Cybersecurity and Hacking
 - 💞️ Feel free to reach out to me if you are interested in collaboration
 - 📫 Best way to reach me is on twitter @KyserClark, or through email KyserJClark@gmail.com
