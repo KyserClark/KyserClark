@@ -1,4 +1,4 @@
-- Active Duty U.S. Air Force Cyber Defense Operations
+- :us: Active Duty U.S. Air Force Cyber Defense Operations
 - 💼 IT & Cybersecurity Professional + Student
 - 👨‍🎓 CCNA | CLNP | Security+
 
