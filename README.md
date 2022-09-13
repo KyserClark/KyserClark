@@ -2,9 +2,9 @@ Committed cybersecurity professional with more than four years of active-duty U.
 
 B.S. Cybersecurity | CISSP | CCNA | Linux+ | Security+ | Network+
 
-KyserClark.com
-
-- 📫 Best way to reach me: linkedin.com/in/KyserClark/, twitter @KyserClark, or through email KyserJClark@gmail.com
+https://KyserClark.com
+https://linkedin.com/in/KyserClark/
+https://twitter.com/KyserClark
 
 <!---
 KyserClark/KyserClark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
