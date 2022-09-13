@@ -1,9 +1,9 @@
--    Active Duty U.S. Air Force Cyber Defense Operations
-- 💼 Cybersecurity Professional
-- 👨‍🎓 CCNA | CLNP | Security+
+Committed cybersecurity professional with more than four years of active-duty U.S. Air Force cyber defense operations experience specializing in offensive security, ethical hacking, and penetration testing, looking to transition out of the public sector. Technician for 3,100 joint service personnel with access to a telecommunications network worth $55 million. Coordinated workflow by synchronizing seven work centers and completing 5,000 trouble tickets in sustaining 8,000 network devices enabling 43 F-16 fighter aircraft and furthering the North Korean nuclear deterrence mission over two years.
 
-- 👀 I’m interested in Cybersecurity and Hacking
-- 💞️ Feel free to reach out to me if you are interested in collaboration
+B.S. Cybersecurity | CISSP | CCNA | Linux+ | Security+ | Network+
+
+KyserClark.com
+
 - 📫 Best way to reach me: linkedin.com/in/KyserClark/, twitter @KyserClark, or through email KyserJClark@gmail.com
 
 <!---
