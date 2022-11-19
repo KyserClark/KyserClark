@@ -2,7 +2,7 @@ Committed cybersecurity professional with more than four years of active-duty U.
 
 B.S. Cybersecurity (WIP) | CISSP | PenTest+ (WIP) | CCNA | Cloud+ | Linux+ | Security+ | Network+ | Top 1% TryHackMe | Home lab & Self-learner
 
-Current Position: Cyber Defense Operations (1D771)
+Current Position: Active Duty United States Air Force Cyber Defense Operations (1D771) 
 
 * https://KyserClark.com
 * https://linkedin.com/in/KyserClark/
