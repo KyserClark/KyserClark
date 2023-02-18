@@ -1,11 +1,12 @@
-Committed cybersecurity professional with more than four years of active-duty U.S. Air Force cyber defense operations experience specializing in offensive security, ethical hacking, penetration testing, and red teaming, looking to transition out of the public sector. Technician for 3,100 joint service personnel with access to a telecommunications network worth $55 million. Coordinated workflow by synchronizing seven work centers and completing 5,000 trouble tickets in sustaining 8,000 network devices enabling 43 F-16 fighter aircraft and furthering the North Korean nuclear deterrence mission over two years.
+I am a passionate cybersecurity professional with more than four years of active duty U.S. Air Force cyber defense operations experience specializing in offensive security, ethical hacking, penetration testing, and red teaming. I want to transition out of the military and into the private sector. My mission is to make cyberspace better & safer for everyone by committing to lifelong learning, sharing knowledge with the community, and inspiring others to do the same. 
 
-B.S. Cybersecurity (WIP) | CISSP | eJPT (WIP) | CEH | PenTest+ | CySA+ (Results Pending) | CCNA | Cloud+ | Linux+ | Security+ | Network+ | Top 1% TryHackMe | Home lab & Self-learner
+B.S. Cybersecurity (WIP) | CISSP | OSCP (WIP) | eJPT | CEH | PenTest+ | CySA+ (Results Pending) | CCNA | Cloud+ | Linux+ | Security+ | Network+ | Top 0.4% TryHackMe | Home lab & Self-learner
 
 Current Position: Active Duty United States Air Force Cyber Defense Operations (1D771) 
 
 * https://KyserClark.com/resume
 * https://linkedin.com/in/KyserClark/
+* https://tryhackme.com/p/KyserClark
 * https://twitter.com/KyserClark
 
 <!---
