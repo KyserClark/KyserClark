@@ -43,5 +43,8 @@
 ## Joas A Santos OSCP Active Directory Notes
 * https://drive.google.com/file/d/14jirVKvHwaFT9789nbQoLHNsmHRGysmH/view
 
+## BugTraq
+* https://bugtraq.securityfocus.com/archive
+
 ## Online - Reverse Shell Generator
 * https://www.revshells.com/
