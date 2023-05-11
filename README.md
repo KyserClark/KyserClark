@@ -1,6 +1,6 @@
 I am a passionate cybersecurity professional with over five years of active duty U.S. Air Force cyber defense operations experience specializing in offensive security, ethical hacking, penetration testing, and red teaming. I want to transition out of the military and into the private sector. My mission is to make cyberspace better & safer for everyone by committing to lifelong learning, sharing knowledge with the community, and inspiring others to do the same. 
 
-B.S. Cybersecurity (WIP) | OSCP (WIP) | CISSP | eJPT | CEH | PenTest+ | CySA+ (Results Pending) | CCNA | Cloud+ | Linux+ | Security+ | Network+ | Devoted CTF Player
+B.S. Cybersecurity (WIP) | OSCP (WIP) | CISSP | eJPT | CEH | PenTest+ | CySA+ | CCNA | Cloud+ | Linux+ | Security+ | Network+ | Devoted CTF Player
 
 Current Position: Active Duty United States Air Force Cyber Defense Operations (1D771) 
 
