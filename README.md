@@ -1,4 +1,16 @@
-I am a passionate cybersecurity professional with over five years of active duty U.S. Air Force cyber defense operations experience specializing in offensive security, ethical hacking, penetration testing, and red teaming. I want to transition out of the military and into the private sector. My mission is to make cyberspace better & safer for everyone by committing to lifelong learning, sharing knowledge with the community, and inspiring others to do the same. 
+Cyber Defense Operations leader with 5+ years of active duty U.S. Air Force experience specializing in offensive security, ethical hacking, penetration testing, and red teaming. Possesses the experience, knowledge, and required credentials to make an immediate and valuable contribution to the penetration testing team. 
+
+Credentials include B.S. Cybersecurity, 11 certifications, and high leaderboard rankings in capture the flags (CTFs).  
+
+Core Competencies & Skills
+
+•	Experienced in manual and automated network penetration testing and web application assessments.
+•	Proficient in red team engagements, threat actor emulation, and bypassing cybersecurity defenses.
+•	Exceptional with industry-standard tools and techniques. (Kali Linux, Nmap, Burp Suite, Metasploit, Mimikatz)
+•	Clear and concise written and verbal communication skills for reporting actionable mitigation strategies.
+•	Adept in automation, programming, and scripting. (Python, Bash, PowerShell, C, C#, VBA, PHP, JavaScript)
+•	Seasoned at identifying and exploiting security vulnerabilities in Windows and Linux systems/servers.
+•	Strong knowledge of penetration testing methodologies (OWASP, PTES, MITRE ATT&CK, Cyber Kill Chain).
 
 B.S. Cybersecurity (WIP) | OSEP (WIP) | OSCP | CISSP | eJPT | CEH | PenTest+ | CySA+ | CCNA | Cloud+ | Linux+ | Security+ | Network+ | Devoted CTF Player
 
