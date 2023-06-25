@@ -12,7 +12,7 @@ Core Competencies & Skills
 * Seasoned at identifying and exploiting security vulnerabilities in Windows and Linux systems/servers.  
 * Strong knowledge of penetration testing methodologies (OWASP, PTES, MITRE ATT&CK, Cyber Kill Chain).  
 
-B.S. Cybersecurity (WIP) | OSEP (WIP) | OSCP | CISSP | eJPT | CEH | PenTest+ | CySA+ | CCNA | Cloud+ | Linux+ | Security+ | Network+ | Devoted CTF Player
+OSEP (WIP) | OSCP | CISSP | eJPT | CEH | PenTest+ | CySA+ | CCNA | Cloud+ | Linux+ | Security+ | Network+
 
 Current Position: Active Duty United States Air Force Cyber Defense Operations (1D771) 
 
