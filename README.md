@@ -22,6 +22,7 @@ Credentials include B.S. in Cybersecurity, 11 certifications (including OSCP, CI
 * https://app.hackthebox.com/profile/766179
 * https://tryhackme.com/p/KyserClark
 * https://twitter.com/KyserClark
+* https://www.twitch.tv/KyserClark_Cybersecurity
 
 <!---
 KyserClark/KyserClark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
