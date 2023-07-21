@@ -4,16 +4,11 @@ Cyber Defense Operations leader with 5+ years of active duty U.S. Air Force expe
 
 Credentials include B.S. in Cybersecurity, 11 certifications (including OSCP, CISSP, eJPT, PenTest+, CEH), and high leaderboard rankings in capture the flags (CTFs).  
   
-# Core Competencies & Skills
+# Mission Statement 
 
-* Experienced in manual and automated network penetration testing and web application assessments.
-* Proficient in red team engagements, threat actor emulation, and bypassing cybersecurity defenses.
-* Exceptional with industry-standard tools and techniques. (Kali Linux, Nmap, Burp Suite, Metasploit, Mimikatz)
-* Clear and concise written and verbal communication skills for reporting actionable mitigation strategies.
-* Versed in automation, programming, and scripting. (Python, Bash, PowerShell, C, C#, VBA, PHP, JavaScript)
-* Sharp at identifying and exploiting security vulnerabilities in Windows and Linux systems/servers.
-* Strong knowledge of methodologies and frameworks. (OWASP, PTES, MITRE ATT&CK, Cyber Kill Chain, NIST).
-* Adept in exploit development, leveraging advanced techniques for employing social engineering attacks.
+
+My mission is to make cyberspace better & safer for everyone by committing to lifelong learning, sharing knowledge with the community, and inspiring others to do the same.  
+
  
 ## Current Position: Active Duty United States Air Force Cyber Defense Operations (1D771) 
 
