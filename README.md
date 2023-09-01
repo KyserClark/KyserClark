@@ -1,8 +1,8 @@
 # Career Summary
 
-Cyber Defense Operations leader with 5+ years of active duty U.S. Air Force experience specializing in offensive security, ethical hacking, penetration testing, and red teaming. Possesses the experience, knowledge, and required credentials to make an immediate and valuable contribution to the penetration testing team. 
+Cybersecurity professional with 5+ years of enterprise experience specializing in offensive security, ethical hacking, penetration testing, and red teaming; skilled in vulnerability assessments and risk mitigation.
 
-Credentials include B.S. in Cybersecurity, 11 certifications (including OSCP, CISSP, eJPT, PenTest+, CEH), and high leaderboard rankings in capture the flags (CTFs).  
+Credentials include B.S. in Cybersecurity, 11 certifications (including OSCP, CISSP, eJPT, PenTest+, CEH, CySA+, CCNA, Cloud+, Linux+, Security+, and Network+), and high leaderboard rankings in capture the flags (CTFs) 
   
 # Mission Statement 
 
