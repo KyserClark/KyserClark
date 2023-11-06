@@ -19,7 +19,7 @@ I am currently honing my skills as a Penetration Tester at TrustFoundry via a Do
 
 # Credentials  
   
-Bachelor of Science (BS) in Cybersecurity Management and Policy from the University of Maryland Global Campus (UMGC), 11 certifications (including OSCP, CISSP, eJPT, PenTest+, CEH, CySA+, CCNA, Cloud+, Linux+, Security+, and Network+), and high leaderboard rankings in Hack The Box and TryHackMe. I am pursuing the OSEP certification and a Master of Science (MS) in Cybersecurity Managment and Policy at UMGC.  
+Bachelor of Science (BS) in Cybersecurity Management and Policy from the University of Maryland Global Campus (UMGC), 11 certifications (including OSCP, CISSP, eJPT, PenTest+, CEH, CySA+, CCNA, Cloud+, Linux+, Security+, and Network+), and high leaderboard rankings in Hack The Box and TryHackMe. I am pursuing the OSEP certification and a Master of Science (MS) in Cybersecurity Management and Policy at UMGC.  
   
 * https://KyserClark.com/resume
 * https://linkedin.com/in/KyserClark/
