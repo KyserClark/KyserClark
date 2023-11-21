@@ -6,7 +6,7 @@ My mission is to make cyberspace better and safer for everyone by committing to 
   
 # Experience  
   
-As I transition out of the U.S. Air Force, I am currently honing my skills as a Penetration Tester at TrustFoundry via a DoD SkillBridge internship. I conduct thorough penetration tests and contribute to strategic security initiatives. My background in Cyber Defense Operations with the Air Force has equipped me with the resilience and precision necessary to reduce risks and enhance security across various platforms and operations. Throughout my career, I have consistently demonstrated the ability to communicate complex security findings and recommendations effectively.  
+As I transition out of the U.S. Air Force, I am currently honing my skills as a Penetration Tester at TrustFoundry via a DOD SkillBridge internship. I conduct thorough penetration tests and contribute to strategic security initiatives. My background in Cyber Defense Operations with the Air Force has equipped me with the resilience and precision necessary to reduce risks and enhance security across various platforms and operations. Throughout my career, I have consistently demonstrated the ability to communicate complex security findings and recommendations effectively.  
   
 # Core Competencies and Skills  
   
