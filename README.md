@@ -1,11 +1,13 @@
 # Career Summary
 
-As a cybersecurity professional with over half a decade of enterprise experience, I am deeply engaged in fortifying digital infrastructures against an evolving threat landscape. My expertise spans penetration testing, ethical hacking, offensive security, and red teaming, with a proven track record in vulnerability assessments and risk mitigation. My mission is to make cyberspace better and safer for everyone by committing to lifelong learning, sharing knowledge with the community, and inspiring others to do the same. 
-
+As a cybersecurity professional with over five years of enterprise experience, I am deeply engaged in fortifying digital infrastructures against an evolving threat landscape. My expertise spans penetration testing, ethical hacking, offensive security, and red teaming, and I have a proven track record of finding and exploiting vulnerabilities in networks and web applications.   
+  
+My mission is to make cyberspace better and safer for everyone by committing to lifelong learning, sharing knowledge with the community, and inspiring others to do the same.  
+  
 # Experience  
   
-I am currently honing my skills as a Penetration Tester at TrustFoundry via a DoD SkillBridge internship as I transition out of the U.S. Air Force. I conduct thorough penetration tests and contribute to strategic security initiatives. My background in Cyber Defense Operations with the Air Force has equipped me with the resilience and precision necessary to reduce risks and enhance security across various platforms and operations. Throughout my career, I have consistently demonstrated the ability to communicate complex security findings and recommendations effectively.
-
+As I transition out of the U.S. Air Force, I am currently honing my skills as a Penetration Tester at TrustFoundry via a DoD SkillBridge internship. I conduct thorough penetration tests and contribute to strategic security initiatives. My background in Cyber Defense Operations with the Air Force has equipped me with the resilience and precision necessary to reduce risks and enhance security across various platforms and operations. Throughout my career, I have consistently demonstrated the ability to communicate complex security findings and recommendations effectively.  
+  
 # Core Competencies and Skills  
   
 * Experienced in manual and automated network penetration testing and web application assessments.
