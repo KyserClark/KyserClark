@@ -1,27 +1,29 @@
 # Career Summary
 
-As a cybersecurity professional with over five years of enterprise experience, I am deeply engaged in fortifying digital infrastructures against an evolving threat landscape. My expertise spans penetration testing, ethical hacking, offensive security, and red teaming, and I have a proven track record of finding and exploiting vulnerabilities in networks and web applications.   
+As a cybersecurity professional with five years of experience, I focus on strengthening digital assets against ever-changing cyber threats. My skills include penetration testing, ethical hacking, and red teaming. I excel at uncovering and addressing vulnerabilities in networks and web applications.  
   
 My mission is to make cyberspace better and safer for everyone by committing to lifelong learning, sharing knowledge with the community, and inspiring others to do the same.  
   
 # Experience  
   
-As I transition out of the U.S. Air Force, I am currently honing my skills as a Penetration Tester at TrustFoundry via a DOD SkillBridge internship. I conduct thorough penetration tests and contribute to strategic security initiatives. My background in Cyber Defense Operations with the Air Force has equipped me with the resilience and precision necessary to reduce risks and enhance security across various platforms and operations. Throughout my career, I have consistently demonstrated the ability to communicate complex security findings and recommendations effectively.  
+I'm transitioning from the U.S. Air Force and sharpening my skills as a Penetration Tester at TrustFoundry through a DOD SkillBridge internship. I conduct detailed penetration tests and support strategic security projects. My Air Force background in Cyber Defense Operations has honed my skills in reducing risks and boosting security across diverse platforms.    
   
 # Core Competencies and Skills  
   
-* Experienced in manual and automated network penetration testing and web application assessments.
-* Proficient in red team engagements, threat actor emulation, and bypassing cybersecurity defenses.
-* Exceptional with industry-standard tools and techniques. (Kali Linux, Nmap, Burp Suite, Metasploit, Mimikatz)
-* Clear and concise written and verbal communication skills for reporting actionable mitigation strategies.
-* Versed in automation, programming, and scripting. (Python, Bash, PowerShell, C, C#, VBA, PHP, JavaScript)
-* Sharp at identifying and exploiting security vulnerabilities in Windows and Linux systems/servers.
-* Strong knowledge of methodologies and frameworks. (OWASP, PTES, MITRE ATT&CK, Cyber Kill Chain, NIST).
-* Adept in exploit development, leveraging advanced techniques for employing social engineering attacks.
+* Proficient in network penetration testing and web application assessments, both manual and automated.
+* Skilled in red team engagements and cybersecurity defense evasion.
+* Expert with tools like Kali Linux, Nmap, Burp Suite, Metasploit, and Mimikatz.
+* Effective communicator, adept at explaining complex security issues.
+* Knowledgeable in programming and scripting languages, including Python, Bash, PowerShell, C, C#, VBA, PHP, and JavaScript.
+* Proficient in identifying and exploiting security gaps in Windows and Linux systems.
+* Well-versed in frameworks like OWASP, PTES, MITRE ATT&CK, Cyber Kill Chain, NIST, and PCI-DSS.
 
 # Credentials  
   
-Bachelor of Science (BS) in Cybersecurity Management and Policy from the University of Maryland Global Campus (UMGC), 11 certifications (including OSCP, CISSP, eJPT, PenTest+, CEH, CySA+, CCNA, Cloud+, Linux+, Security+, and Network+), and high leaderboard rankings in Hack The Box and TryHackMe. I am pursuing the OSEP certification and a Master of Science (MS) in Cybersecurity Management and Policy at UMGC.  
+* BS in Cybersecurity Management and Policy from UMGC.
+* 11 certifications including OSCP, CISSP, eJPT, PenTest+, CEH, CySA+, CCNA, Cloud+, Linux+, Security+, and Network+.
+* Pwned 41 HTB machines and mastered 216 THM rooms, securing top leaderboard rankings on both platforms.
+* Pursuing OSEP certification and MS in Cybersecurity Management and Policy at UMGC.
   
 * https://KyserClark.com/resume
 * https://linkedin.com/in/KyserClark/
@@ -30,6 +32,7 @@ Bachelor of Science (BS) in Cybersecurity Management and Policy from the Univers
 * https://twitter.com/KyserClark
 * https://www.twitch.tv/KyserClark_Cybersecurity
 * https://www.youtube.com/KyserClark
+* https://www.tiktok.com/@kyserclark
 
 <!---
 KyserClark/KyserClark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
