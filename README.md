@@ -27,7 +27,7 @@ I'm transitioning from the U.S. Air Force and sharpening my skills as a Penetrat
 
 # Connect    
   
-* https://KyserClark.com/resume
+* https://KyserClark.com
 * https://linkedin.com/in/KyserClark/
 * https://app.hackthebox.com/profile/766179
 * https://tryhackme.com/p/KyserClark
