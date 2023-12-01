@@ -24,6 +24,8 @@ I'm transitioning from the U.S. Air Force and sharpening my skills as a Penetrat
 * 11 certifications including OSCP, CISSP, eJPT, PenTest+, CEH, CySA+, CCNA, Cloud+, Linux+, Security+, and Network+.
 * Pwned 41 HTB machines and mastered 216 THM rooms, securing top leaderboard rankings on both platforms.
 * Pursuing OSEP certification and MS in Cybersecurity Management and Policy at UMGC.
+
+# Connect    
   
 * https://KyserClark.com/resume
 * https://linkedin.com/in/KyserClark/
