@@ -6,7 +6,7 @@ My mission is to make cyberspace better and safer for everyone by committing to 
   
 # Experience  
   
-I'm transitioning from the U.S. Air Force and sharpening my skills as a Penetration Tester at TrustFoundry through a DOD SkillBridge internship. I conduct detailed penetration tests and support strategic security projects. My Air Force background in Cyber Defense Operations has honed my skills in reducing risks and boosting security across diverse platforms.    
+I conduct detailed penetration tests and support strategic security projects. My Air Force background in Cyber Defense Operations has honed my skills in reducing risks and boosting security across diverse platforms.    
   
 # Core Competencies and Skills  
   
@@ -21,7 +21,7 @@ I'm transitioning from the U.S. Air Force and sharpening my skills as a Penetrat
 # Credentials  
   
 * BS in Cybersecurity Management and Policy from UMGC.
-* 11 certifications including OSCP, CISSP, eJPT, PenTest+, CEH, CySA+, CCNA, Cloud+, Linux+, Security+, and Network+.
+* 12 certifications, including OSCP, CISSP, eJPT, OSWP, PenTest+, CEH, CySA+, CCNA, Cloud+, Linux+, Security+, and Network+.
 * Pwned 41 HTB machines and mastered 216 THM rooms, securing top leaderboard rankings on both platforms.
 * Pursuing OSEP certification and MS in Cybersecurity Management and Policy at UMGC.
 
