@@ -6,7 +6,7 @@ My mission is to make cyberspace better and safer for everyone by committing to 
   
 # Experience  
   
-I conduct detailed penetration tests and support strategic security projects. My Air Force background in Cyber Defense Operations has honed my skills in reducing risks and boosting security across diverse platforms.    
+I conduct detailed penetration tests and support strategic security projects. My professional experience in cybersecurity has honed my skills in reducing risks and boosting security across diverse platforms.
   
 # Core Competencies and Skills  
   
@@ -22,7 +22,7 @@ I conduct detailed penetration tests and support strategic security projects. My
   
 * BS in Cybersecurity Management and Policy from UMGC.
 * 12 certifications, including OSCP, CISSP, eJPT, OSWP, PenTest+, CEH, CySA+, CCNA, Cloud+, Linux+, Security+, and Network+.
-* Pwned 60 HTB machines and mastered 216 THM rooms, securing top leaderboard rankings on both platforms.
+* Pwned 66 HTB machines and mastered 216 THM rooms, securing top leaderboard rankings on both platforms.
 * Pursuing OSEP certification and MS in Cybersecurity Management and Policy at UMGC.
 
 # Connect    
