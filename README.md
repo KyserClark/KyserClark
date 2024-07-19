@@ -1,7 +1,7 @@
 # Summary  
 As a cybersecurity professional with over six years of experience, I focus on strengthening digital assets against ever-changing cyber threats. I specialize in penetration testing, ethical hacking, red teaming, and offensive security. I excel at uncovering and addressing vulnerabilities in networks and web applications.  
   
-###My mission is to make cyberspace better & safer for everyone by committing to lifelong learning, sharing knowledge with the community, and inspiring others to do the same.  
+### My mission is to make cyberspace better & safer for everyone by committing to lifelong learning, sharing knowledge with the community, and inspiring others to do the same.  
   
 I conduct detailed penetration tests and support strategic security projects. My professional experience in cybersecurity has honed my skills in reducing risks and boosting security across diverse platforms.  
 
