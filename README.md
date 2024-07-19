@@ -30,6 +30,6 @@ https://twitch.tv/KyserClark_Cybersecurity
 https://youtube.com/KyserClark  
 https://tiktok.com/@kyserclark  
   
-Let's make cyberspace more secure together! Connect with me here on LinkedIn, email me at Kyser@KyserClark.com, or follow me on Twitter at @KyserClark.  
+Let's make cyberspace more secure together! Connect with me on LinkedIn, email me at Kyser@KyserClark.com, or follow me on Twitter at @KyserClark.  
   
 The postings on this site are my own and may not represent the positions of my employer.  
