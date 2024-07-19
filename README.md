@@ -22,13 +22,13 @@ I conduct detailed penetration tests and support strategic security projects. My
   
 Find more about my work and projects at KyserClark.com.   
 
-Creator and Host of "The Hacker's Cache" podcast: KyserClark.com/podcast  
+Creator and Host of "The Hacker's Cache" podcast: https://KyserClark.com/podcast  
 
 Connect with me on my Twitch, YouTube, and TikTok channels where I create cybersecurity content:  
   
-twitch.tv/KyserClark_Cybersecurity   
-youtube.com/KyserClark  
-tiktok.com/@kyserclark  
+https://twitch.tv/KyserClark_Cybersecurity   
+https://youtube.com/KyserClark  
+https://tiktok.com/@kyserclark  
   
 Let's make cyberspace more secure together! Connect with me here on LinkedIn, email me at Kyser@KyserClark.com, or follow me on Twitter at @KyserClark.  
   
