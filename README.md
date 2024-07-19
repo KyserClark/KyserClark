@@ -17,7 +17,7 @@ I conduct detailed penetration tests and support strategic security projects. My
 ## Credentials:
 * BS in Cybersecurity Management and Policy from UMGC.  
 * 13 certifications, including OSCP, CISSP, eJPT, OSWP, PenTest+, CEH, CySA+, CCNA, Cyber Ops-A, Cloud+, Linux+, Security+, and Network+.  
-* Pwned 70 HTB machines and mastered 216 THM rooms, securing top leaderboard rankings on both platforms.  
+* Pwned 73 HTB machines and mastered 216 THM rooms, securing top leaderboard rankings on both platforms.  
 * Pursuing OSWA certification and MS in Cybersecurity Management and Policy at UMGC.  
   
 Find more about my work and projects at KyserClark.com.   
