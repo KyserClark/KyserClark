@@ -20,7 +20,7 @@ I conduct detailed penetration tests and support strategic security projects. My
 * Pwned 73 HTB machines and mastered 216 THM rooms, securing top leaderboard rankings on both platforms.  
 * Pursuing OSWA certification and MS in Cybersecurity Management and Policy at UMGC.  
   
-Find more about my work and projects at KyserClark.com.   
+Find more about my work and projects at https://KyserClark.com 
 
 Creator and Host of "The Hacker's Cache" podcast: https://KyserClark.com/podcast  
 
